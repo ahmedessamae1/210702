@@ -1,0 +1,21 @@
+.logo {
+    width: 48px;
+    height: auto;
+}
+
+.navbar-brand {
+    padding: 0;
+}
+
+footer {
+    position: fixed;
+    height: 30px;
+    bottom: 0;
+    width: 100%;
+    background-color: #ddd;
+    padding-top: 5px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
